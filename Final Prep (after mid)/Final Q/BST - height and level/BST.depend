@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1567270968 source:c:\users\talha\desktop\bst\main.cpp
+	<iostream>
+	"binarysearchtree.cpp"
+
+1565022284 source:c:\users\talha\desktop\bst\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1565022284 c:\users\talha\desktop\bst\quetype.h
+
+1567272954 source:c:\users\talha\desktop\bst\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1567272900 c:\users\talha\desktop\bst\binarysearchtree.h
+	"quetype.h"
+
+1565022284 c:\users\talha\desktop\bst\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1567272954 c:\users\talha\desktop\bst\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1567273027 source:c:\users\jubof\downloads\compressed\bst - height and level\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1567272900 c:\users\jubof\downloads\compressed\bst - height and level\binarysearchtree.h
+	"quetype.h"
+
+1565022284 c:\users\jubof\downloads\compressed\bst - height and level\quetype.h
+
+1565022284 c:\users\jubof\downloads\compressed\bst - height and level\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1567273027 source:c:\users\jubof\downloads\compressed\bst - height and level\main.cpp
+	<iostream>
+	"binarysearchtree.cpp"
+
+1567279467 c:\users\jubof\downloads\compressed\bst - height and level\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1565022284 source:c:\users\jubof\downloads\compressed\bst - height and level\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1567447312 source:c:\users\jubof\downloads\compressed\talha\bst - height and level\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1567447312 c:\users\jubof\downloads\compressed\talha\bst - height and level\binarysearchtree.h
+	"quetype.h"
+
+1565022284 c:\users\jubof\downloads\compressed\talha\bst - height and level\quetype.h
+
+1565022284 c:\users\jubof\downloads\compressed\talha\bst - height and level\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1565022284 source:c:\users\jubof\downloads\compressed\talha\bst - height and level\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1567447401 source:c:\users\jubof\downloads\compressed\talha\bst - height and level\main.cpp
+	<iostream>
+	"binarysearchtree.cpp"
+
+1567447312 c:\users\jubof\downloads\compressed\talha\bst - height and level\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+

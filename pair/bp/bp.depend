@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1560666795 source:c:\users\classroom\desktop\binary-pair\bp\bp.cpp
+	"BP.h"
+
+1560667029 c:\users\classroom\desktop\binary-pair\bp\bp.h
+
+1560666917 source:c:\users\classroom\desktop\binary-pair\bp\main.cpp
+	<iostream>
+	"BP.cpp"
+
+1560666795 c:\users\classroom\desktop\binary-pair\bp\bp.cpp
+	"BP.h"
+
+1560751795 source:c:\users\lib-609\downloads\binary-pair\bp\bp.cpp
+	"BP.h"
+
+1560800599 c:\users\lib-609\downloads\binary-pair\bp\bp.h
+
+1560800964 source:c:\users\lib-609\downloads\binary-pair\bp\main.cpp
+	<iostream>
+	"BP.h"
+	"pair.h"
+
+1560751795 c:\users\lib-609\downloads\binary-pair\bp\bp.cpp
+	"BP.h"
+
+1560800997 c:\users\lib-609\downloads\binary-pair\bp\pair.h
+
+1560800881 source:c:\users\lib-609\downloads\binary-pair\bp\pair.cpp
+	"pair.h"
+

@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1562253365 source:c:\users\jubof\downloads\documents\stacktype\main.cpp
+	"stacktype.cpp"
+	"string.h"
+
+1562253008 c:\users\jubof\downloads\documents\stacktype\stacktype.cpp
+	"stacktype.h"
+	<iostream>
+
+1562249579 c:\users\jubof\downloads\documents\stacktype\stacktype.h
+
+1562253008 source:c:\users\jubof\downloads\documents\stacktype\stacktype.cpp
+	"stacktype.h"
+	<iostream>
+

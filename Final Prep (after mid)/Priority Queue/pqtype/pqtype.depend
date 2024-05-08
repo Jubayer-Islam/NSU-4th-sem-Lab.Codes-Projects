@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1565525681 source:c:\users\jubof\downloads\compressed\priority queue\pqtype\main.cpp
+	<iostream>
+	"pqtype.cpp"
+
+1566569575 source:c:\users\jubof\downloads\compressed\priority queue\pqtype\heaptype.cpp
+	"heaptype.h"
+
+1565518826 c:\users\jubof\downloads\compressed\priority queue\pqtype\heaptype.h
+	<iostream>
+
+1566568111 source:c:\users\jubof\downloads\compressed\priority queue\pqtype\pqtype.cpp
+	"pqtype.h"
+
+1565518424 c:\users\jubof\downloads\compressed\priority queue\pqtype\pqtype.h
+	"heaptype.h"
+	"heaptype.cpp"
+
+1566569575 c:\users\jubof\downloads\compressed\priority queue\pqtype\heaptype.cpp
+	"heaptype.h"
+
+1566568111 c:\users\jubof\downloads\compressed\priority queue\pqtype\pqtype.cpp
+	"pqtype.h"
+
+1566569575 source:d:\study materials\nsu\4th semester\cse 225.6\codes\f (after mid)\priority queue\pqtype\heaptype.cpp
+	"heaptype.h"
+
+1565518826 d:\study materials\nsu\4th semester\cse 225.6\codes\f (after mid)\priority queue\pqtype\heaptype.h
+	<iostream>
+
+1565525681 source:d:\study materials\nsu\4th semester\cse 225.6\codes\f (after mid)\priority queue\pqtype\main.cpp
+	<iostream>
+	"pqtype.cpp"
+
+1567395905 d:\study materials\nsu\4th semester\cse 225.6\codes\f (after mid)\priority queue\pqtype\pqtype.cpp
+	"pqtype.h"
+
+1567396072 d:\study materials\nsu\4th semester\cse 225.6\codes\f (after mid)\priority queue\pqtype\pqtype.h
+	"heaptype.cpp"
+
+1566569575 d:\study materials\nsu\4th semester\cse 225.6\codes\f (after mid)\priority queue\pqtype\heaptype.cpp
+	"heaptype.h"
+
+1567395905 source:d:\study materials\nsu\4th semester\cse 225.6\codes\f (after mid)\priority queue\pqtype\pqtype.cpp
+	"pqtype.h"
+

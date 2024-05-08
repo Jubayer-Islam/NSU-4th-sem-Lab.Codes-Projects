@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1563993325 source:c:\users\jubof\downloads\compressed\new list\new list 2\list\list.cpp
+	"list.h"
+	<iostream>
+
+1563993325 c:\users\jubof\downloads\compressed\new list\new list 2\list\list.h
+
+1563986166 source:c:\users\jubof\downloads\compressed\new list\new list 2\list\list2.cpp
+
+1514140574 source:c:\users\jubof\downloads\compressed\new list\new list 2\list\main.cpp
+	<iostream>
+

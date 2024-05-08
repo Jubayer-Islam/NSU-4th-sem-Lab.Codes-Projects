@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1560722459 source:d:\study materials\nsu\4th semester\cse 225.6\codes\dynamic array\cmpnum\cmpnum.cpp
+	"cmpNum.h"
+	<iostream>
+
+1560721403 d:\study materials\nsu\4th semester\cse 225.6\codes\dynamic array\cmpnum\cmpnum.h
+
+1560722829 source:d:\study materials\nsu\4th semester\cse 225.6\codes\dynamic array\cmpnum\main.cpp
+	<iostream>
+	"cmpNum.h"
+

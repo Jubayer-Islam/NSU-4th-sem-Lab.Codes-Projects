@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1565120408 source:c:\users\jubof\downloads\compressed\dll\doublylinkedlist\doublylinkedlist.cpp
+	"DoublyLinkedList.h"
+	<iostream>
+
+1565110973 c:\users\jubof\downloads\compressed\dll\doublylinkedlist\doublylinkedlist.h
+	<iostream>
+
+1565120316 source:c:\users\jubof\downloads\compressed\dll\doublylinkedlist\main.cpp
+	<iostream>
+	"DoublyLinkedList.cpp"
+
+1565120408 c:\users\jubof\downloads\compressed\dll\doublylinkedlist\doublylinkedlist.cpp
+	"DoublyLinkedList.h"
+	<iostream>
+

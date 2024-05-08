@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1565372196 source:c:\users\jubof\downloads\compressed\binary search tree\binarysearchtree\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1565372166 c:\users\jubof\downloads\compressed\binary search tree\binarysearchtree\binarysearchtree.h
+	"quetype.h"
+
+1565372129 c:\users\jubof\downloads\compressed\binary search tree\binarysearchtree\quetype.h
+
+1565372145 c:\users\jubof\downloads\compressed\binary search tree\binarysearchtree\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1565372145 source:c:\users\jubof\downloads\compressed\binary search tree\binarysearchtree\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1565374204 source:c:\users\jubof\downloads\compressed\binary search tree\binarysearchtree\main.cpp
+	<iostream>
+	"binarysearchtree.cpp"
+
+1565372196 c:\users\jubof\downloads\compressed\binary search tree\binarysearchtree\binarysearchtree.cpp
+	"binarysearchtree.h"
+	"quetype.cpp"
+	<iostream>
+
+1567395531 source:d:\study materials\nsu\4th semester\cse 225.6\codes\f (after mid)\binary search tree\binarysearchtree\binarysearchtree.cpp
+	"binarysearchtree.h"
+	<iostream>
+
+1567394505 d:\study materials\nsu\4th semester\cse 225.6\codes\f (after mid)\binary search tree\binarysearchtree\binarysearchtree.h
+	"quetype.cpp"
+
+1565372129 d:\study materials\nsu\4th semester\cse 225.6\codes\f (after mid)\binary search tree\binarysearchtree\quetype.h
+
+1567394314 d:\study materials\nsu\4th semester\cse 225.6\codes\f (after mid)\binary search tree\binarysearchtree\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1567394314 source:d:\study materials\nsu\4th semester\cse 225.6\codes\f (after mid)\binary search tree\binarysearchtree\quetype.cpp
+	"quetype.h"
+	<iostream>
+
+1567395201 source:d:\study materials\nsu\4th semester\cse 225.6\codes\f (after mid)\binary search tree\binarysearchtree\main.cpp
+	<iostream>
+	"binarysearchtree.cpp"
+
+1567395531 d:\study materials\nsu\4th semester\cse 225.6\codes\f (after mid)\binary search tree\binarysearchtree\binarysearchtree.cpp
+	"binarysearchtree.h"
+	<iostream>
+

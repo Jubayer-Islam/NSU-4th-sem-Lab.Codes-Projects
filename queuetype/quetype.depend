@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1562779350 source:c:\users\jubof\downloads\documents\quetype\main.cpp
+	<iostream>
+	"quetype.cpp"
+	"string.h"
+
+1562766140 c:\users\jubof\downloads\documents\quetype\quetype.cpp
+	"quetype.h"
+
+1562766140 c:\users\jubof\downloads\documents\quetype\quetype.h
+	<iostream>
+
+1562766140 source:c:\users\jubof\downloads\documents\quetype\quetype.cpp
+	"quetype.h"
+

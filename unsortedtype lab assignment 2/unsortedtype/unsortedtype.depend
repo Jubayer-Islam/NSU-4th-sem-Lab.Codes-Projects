@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1561563133 source:c:\users\jubof\downloads\documents\unsortedtype\unsortedtype.cpp
+	"UnsortedType.h"
+	<iostream>
+
+1561563133 c:\users\jubof\downloads\documents\unsortedtype\unsortedtype.h
+
+1561563945 source:c:\users\jubof\downloads\documents\unsortedtype\main.cpp
+	<iostream>
+	"UnsortedType.cpp"
+
+1561563133 c:\users\jubof\downloads\documents\unsortedtype\unsortedtype.cpp
+	"UnsortedType.h"
+	<iostream>
+

@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1561197332 source:c:\users\jubof\downloads\assignment\unsortedtype\studentinfo.cpp
+	"studentinfo.h"
+	<string>
+
+1561199448 c:\users\jubof\downloads\assignment\unsortedtype\studentinfo.h
+	<iostream>
+
+1561200054 source:c:\users\jubof\downloads\assignment\unsortedtype\unsortedtype.cpp
+	"unsortedtype.h"
+	<iostream>
+
+1561197332 c:\users\jubof\downloads\assignment\unsortedtype\unsortedtype.h
+
+1561208166 source:c:\users\jubof\downloads\assignment\unsortedtype\main.cpp
+	<iostream>
+	"unsortedtype.cpp"
+	"unsortedtype.h"
+	"studentinfo.h"
+
+1561200054 c:\users\jubof\downloads\assignment\unsortedtype\unsortedtype.cpp
+	"unsortedtype.h"
+	<iostream>
+

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1560276993 source:d:\study materials\nsu\4th semester\cse 225.6\codes\dynamic array\dynamicarraybasic\dynarr.cpp
+	"dynarr.h"
+	<iostream>
+
+1560277328 d:\study materials\nsu\4th semester\cse 225.6\codes\dynamic array\dynamicarraybasic\dynarr.h
+
+1560277546 source:d:\study materials\nsu\4th semester\cse 225.6\codes\dynamic array\dynamicarraybasic\main.cpp
+	"dynarr.h"
+	<iostream>
+

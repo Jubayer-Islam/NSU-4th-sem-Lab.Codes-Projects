@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1565115203 source:c:\users\talha\desktop\doubly linked list\main.cpp
+	<iostream>
+	"DoublyLinkedList.cpp"
+
+1565115085 source:c:\users\talha\desktop\doubly linked list\doublylinkedlist.cpp
+	"DoublyLinkedList.h"
+	<iostream>
+
+1565104880 c:\users\talha\desktop\doubly linked list\doublylinkedlist.h
+	<iostream>
+
+1565115085 c:\users\talha\desktop\doubly linked list\doublylinkedlist.cpp
+	"DoublyLinkedList.h"
+	<iostream>
+
+1565204970 source:c:\users\jubof\onedrive\desktop\assignment\doubly linked list\doublylinkedlist.cpp
+	"DoublyLinkedList.h"
+	<iostream>
+
+1565104880 c:\users\jubof\onedrive\desktop\assignment\doubly linked list\doublylinkedlist.h
+	<iostream>
+
+1565204905 source:c:\users\jubof\onedrive\desktop\assignment\doubly linked list\main.cpp
+	<iostream>
+	"DoublyLinkedList.cpp"
+
+1565204970 c:\users\jubof\onedrive\desktop\assignment\doubly linked list\doublylinkedlist.cpp
+	"DoublyLinkedList.h"
+	<iostream>
+
